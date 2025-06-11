@@ -2,9 +2,10 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
+    cout << "add to using namespace std\n";
     std::cout << "Hello World!\n";
 }
 
